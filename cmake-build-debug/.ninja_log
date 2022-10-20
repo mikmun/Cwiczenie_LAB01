@@ -1,0 +1,6 @@
+# ninja log v5
+2	128	6879848824667543	build.ninja	1f04d4cd357fcae2
+0	94	6879848826146993	CMakeFiles/githubproj.dir/cwiczenie.c.obj	748a94eac30a41b3
+95	215	6879848827331960	githubproj.exe	6cc5fd09a1fbb8d7
+1	100	6879870350488967	CMakeFiles/githubproj.dir/cwiczenie.c.obj	748a94eac30a41b3
+100	200	6879870351461235	githubproj.exe	6cc5fd09a1fbb8d7
