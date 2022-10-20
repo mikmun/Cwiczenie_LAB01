@@ -1,0 +1,3 @@
+D:/DANTE/githubproj/cmake-build-debug/CMakeFiles/githubproj.dir
+D:/DANTE/githubproj/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DANTE/githubproj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
